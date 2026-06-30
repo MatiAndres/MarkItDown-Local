@@ -1,0 +1,2 @@
+"""MarkItDown Local Launcher package."""
+

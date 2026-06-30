@@ -1,0 +1,4 @@
+Hola MarkItDown.
+
+Este archivo simple sirve para validar la conversion local a Markdown.
+
