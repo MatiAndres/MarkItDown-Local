@@ -2,6 +2,8 @@
 
 Utilidad local para convertir documentos a Markdown usando Microsoft MarkItDown sin tener que activar entornos virtuales, instalar dependencias manualmente ni recordar comandos de Python.
 
+El flujo esperado es ejecutar un archivo `.ps1`, apuntar a un documento dentro de `input/` o a una ruta absoluta, y obtener el `.md` generado en `output/`.
+
 ## Requisitos
 
 - Windows con PowerShell.
